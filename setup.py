@@ -5,7 +5,7 @@ setup(
     name='dataforge',
     version='0.1',
     description='Synthetic Data Generator Library',
-    author='Your Name',
+    author='Vishnu Devarajan',
     packages=find_packages(),
     install_requires=[
         'numpy',
